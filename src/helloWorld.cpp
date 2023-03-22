@@ -8,7 +8,7 @@ int main()
 
     std::cin >> s;
 
-    std::cout << "\nSo, " << s << " is out there? I will greet it, then.\n" << std::endl;
+    std::cout << "\nSo, " << s << " is out there? There's world left. I will greet it, then.\n" << std::endl;
     std::cout << "Hello, World." << std::endl;
 
     return 0;
