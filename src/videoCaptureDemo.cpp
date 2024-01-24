@@ -21,9 +21,7 @@ int main(int, char**)
         cerr << "ERROR! Unable to open camera\n";
         return -1;
       }
-
-    cout << "Start grabbing" << endl
-      << "Press any key to terminate" << endl;
+    cout << "Start grabbing" << endl << "Press any key to terminate" << endl;
     for(;;)
       {
         cap.read(frame);

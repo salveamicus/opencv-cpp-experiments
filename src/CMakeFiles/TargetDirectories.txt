@@ -1,0 +1,3 @@
+/home/cinnamon/Projects/opencv-cpp-experiments/src/CMakeFiles/../VideoTest.dir
+/home/cinnamon/Projects/opencv-cpp-experiments/src/CMakeFiles/edit_cache.dir
+/home/cinnamon/Projects/opencv-cpp-experiments/src/CMakeFiles/rebuild_cache.dir
